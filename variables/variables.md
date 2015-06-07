@@ -5,11 +5,10 @@ julia は optionally-typed
 
 基本的には、動的型付け言語のような振る舞いをする。
 
-`
-julia> x = 10
-10
-julia> x = "hello"
-hello
-`
+
+	julia> x = 10
+	10
+	julia> x = "hello"
+	hello
 
 
